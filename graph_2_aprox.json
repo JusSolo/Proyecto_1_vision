@@ -1,249 +1,432 @@
 {
     "nodes": [
-        [
-            37,
-            9
-        ],
-        [
-            77,
-            88
-        ],
-        [
-            36,
-            2
-        ],
-        [
-            84,
-            165
-        ],
-        [
-            94,
-            105
-        ],
-        [
-            138,
-            68
-        ],
-        [
-            286,
-            194
-        ],
-        [
-            46,
-            14
-        ],
-        [
-            50,
-            34
-        ],
-        [
-            68,
-            55
-        ],
-        [
-            81,
-            71
-        ],
-        [
-            100,
-            69
-        ],
-        [
-            109,
-            80
-        ],
-        [
-            129,
-            75
-        ],
-        [
-            122,
-            98
-        ],
-        [
-            87,
-            91
-        ],
-        [
-            84,
-            98
-        ],
-        [
-            76,
-            81
-        ],
-        [
-            71,
-            87
-        ],
-        [
-            53,
-            80
-        ],
-        [
-            39,
-            74
-        ],
-        [
-            39,
-            67
-        ],
-        [
-            35,
-            18
-        ],
-        [
-            36,
-            38
-        ],
-        [
-            27,
-            58
-        ],
-        [
-            14,
-            77
-        ],
-        [
-            16,
-            98
-        ],
-        [
-            30,
-            117
-        ],
-        [
-            42,
-            136
-        ],
-        [
-            53,
-            157
-        ],
-        [
-            65,
-            176
-        ],
-        [
-            82,
-            193
-        ],
-        [
-            101,
-            208
-        ],
-        [
-            120,
-            220
-        ],
-        [
-            140,
-            229
-        ],
-        [
-            160,
-            238
-        ],
-        [
-            180,
-            237
-        ],
-        [
-            220,
-            232
-        ],
-        [
-            240,
-            228
-        ],
-        [
-            260,
-            218
-        ],
-        [
-            279,
-            203
-        ],
-        [
-            182,
-            214
-        ],
-        [
-            161,
-            202
-        ],
-        [
-            149,
-            183
-        ],
-        [
-            141,
-            162
-        ],
-        [
-            121,
-            150
-        ],
-        [
-            104,
-            132
-        ],
-        [
-            84,
-            124
-        ],
-        [
-            64,
-            119
-        ],
-        [
-            48,
-            115
-        ],
-        [
-            55,
-            128
-        ],
-        [
-            71,
-            144
-        ],
-        [
-            80,
-            160
-        ],
-        [
-            37,
-            95
-        ],
-        [
-            36,
-            79
-        ],
-        [
-            45,
-            114
-        ],
-        [
-            46,
-            52
-        ],
-        [
-            76,
-            69
-        ],
-        [
-            198,
-            232
-        ],
-        [
-            109,
-            84
-        ],
-        [
-            136,
-            96
-        ]
+        {
+            "coords": [
+                37,
+                9
+            ],
+            "type": "bifurcation"
+        },
+        {
+            "coords": [
+                77,
+                88
+            ],
+            "type": "trifurcation"
+        },
+        {
+            "coords": [
+                36,
+                2
+            ],
+            "type": "endpoint"
+        },
+        {
+            "coords": [
+                84,
+                165
+            ],
+            "type": "endpoint"
+        },
+        {
+            "coords": [
+                94,
+                105
+            ],
+            "type": "endpoint"
+        },
+        {
+            "coords": [
+                138,
+                68
+            ],
+            "type": "endpoint"
+        },
+        {
+            "coords": [
+                286,
+                194
+            ],
+            "type": "endpoint"
+        },
+        {
+            "coords": [
+                46,
+                14
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                50,
+                34
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                68,
+                55
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                81,
+                71
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                100,
+                69
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                109,
+                80
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                129,
+                75
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                122,
+                98
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                87,
+                91
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                84,
+                98
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                76,
+                81
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                71,
+                87
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                53,
+                80
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                39,
+                74
+            ],
+            "type": "bifurcation"
+        },
+        {
+            "coords": [
+                39,
+                67
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                35,
+                18
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                36,
+                38
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                27,
+                58
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                14,
+                77
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                16,
+                98
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                30,
+                117
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                42,
+                136
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                53,
+                157
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                65,
+                176
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                82,
+                193
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                101,
+                208
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                120,
+                220
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                140,
+                229
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                160,
+                238
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                180,
+                237
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                220,
+                232
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                240,
+                228
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                260,
+                218
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                279,
+                203
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                182,
+                214
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                161,
+                202
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                149,
+                183
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                141,
+                162
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                121,
+                150
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                104,
+                132
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                84,
+                124
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                64,
+                119
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                48,
+                115
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                55,
+                128
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                71,
+                144
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                80,
+                160
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                37,
+                95
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                36,
+                79
+            ],
+            "type": "intermediate"
+        },
+        {
+            "coords": [
+                45,
+                114
+            ],
+            "type": "bifurcation"
+        },
+        {
+            "coords": [
+                46,
+                52
+            ],
+            "type": "bifurcation"
+        },
+        {
+            "coords": [
+                76,
+                69
+            ],
+            "type": "bifurcation"
+        },
+        {
+            "coords": [
+                198,
+                232
+            ],
+            "type": "bifurcation"
+        },
+        {
+            "coords": [
+                109,
+                84
+            ],
+            "type": "trifurcation"
+        },
+        {
+            "coords": [
+                136,
+                96
+            ],
+            "type": "endpoint"
+        }
     ],
     "edges": [
         [
